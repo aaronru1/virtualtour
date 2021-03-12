@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.10" apprev="18007" start="node1">
+  <panorama id="node1" hideabout="1">
+    <input prev5url="images/R0020019_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020019_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020019_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020019_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020019_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020019_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020019_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020019_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020019_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020019_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020019_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020019_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020019_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="260.71">
+      <start fov="80" tilt="0" projection="4" pan="150"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node1" description="" source="" comment="" longitude="" datetime="2021-01-28 1:33 PM" info="" heading="260.71" title="THETA_PITCH=0.99 THETA_ROLL=359.64" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node2}" target="" title="THETA_PITCH=1.10 THETA_ROLL=359.32" pan="-241.52" skinid="ht_node"/>
+      <hotspot id="Point02" tilt="0" description="" url="{node3}" target="" title="THETA_PITCH=1.01 THETA_ROLL=359.50" pan="-180" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input prev5url="images/R0020020_HDR-Edit_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020020_HDR-Edit_ovr.jpg" tilescale="1.010493" tile3url="images/R0020020_HDR-Edit_o_3.jpg" prev3url="images/R0020020_HDR-Edit_o_preview_3.jpg" tile0url="images/R0020020_HDR-Edit_o_0.jpg" tile4url="images/R0020020_HDR-Edit_o_4.jpg" prev4url="images/R0020020_HDR-Edit_o_preview_4.jpg" prev0url="images/R0020020_HDR-Edit_o_preview_0.jpg" tilesize="953" prev2url="images/R0020020_HDR-Edit_o_preview_2.jpg" tile5url="images/R0020020_HDR-Edit_o_5.jpg" tile1url="images/R0020020_HDR-Edit_o_1.jpg" levelingpitch="0" prev1url="images/R0020020_HDR-Edit_o_preview_1.jpg" tile2url="images/R0020020_HDR-Edit_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="265.57">
+      <start fov="80" tilt="0" projection="4" pan="150"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node2" description="" source="" comment="" longitude="" datetime="2021-01-28 1:34 PM" info="" heading="265.57" title="THETA_PITCH=1.10 THETA_ROLL=359.32" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node1}" target="" title="THETA_PITCH=0.99 THETA_ROLL=359.64" pan="-70.62" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input prev5url="images/R0020021_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020021_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020021_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020021_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020021_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020021_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020021_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020021_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020021_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020021_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020021_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020021_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020021_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="263.07">
+      <start fov="80" tilt="0" projection="4" pan="170"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node3" description="" source="" comment="" longitude="" datetime="2021-01-28 1:35 PM" info="" heading="263.07" title="THETA_PITCH=1.01 THETA_ROLL=359.50" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node1}" target="" title="THETA_PITCH=0.99 THETA_ROLL=359.64" pan="-358.16" skinid="ht_node"/>
+      <hotspot id="Point02" tilt="0" description="" url="{node4}" target="" title="THETA_PITCH=0.45 THETA_ROLL=359.53" pan="-181.71" skinid="ht_node"/>
+      <hotspot id="Point03" tilt="0" description="" url="{node7}" target="" title="THETA_PITCH=0.58 THETA_ROLL=359.51" pan="-207.84" skinid="ht_upstairs"/>
+      <hotspot id="Point04" tilt="0" description="" url="{node14}" target="" title="THETA_PITCH=0.85 THETA_ROLL=0.01" pan="-333.87" skinid="ht_downstairs"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input prev5url="images/R0020022_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020022_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020022_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020022_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020022_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020022_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020022_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020022_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020022_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020022_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020022_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020022_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020022_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="262.25">
+      <start fov="80" tilt="0" projection="4" pan="-150"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node4" description="" source="" comment="" longitude="" datetime="2021-01-28 1:36 PM" info="" heading="262.25" title="THETA_PITCH=0.45 THETA_ROLL=359.53" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node3}" target="" title="THETA_PITCH=1.01 THETA_ROLL=359.50" pan="-3.07" skinid="ht_node"/>
+      <hotspot id="Point02" tilt="0" description="" url="{node5}" target="" title="THETA_PITCH=0.70 THETA_ROLL=359.50" pan="-168.68" skinid="ht_node"/>
+      <hotspot id="Point03" tilt="0" description="" url="{node6}" target="" title="THETA_PITCH=0.68 THETA_ROLL=359.39" pan="-102.31" skinid="ht_node"/>
+      <hotspot id="Point04" tilt="-10" description="" url="{node7}" target="" title="THETA_PITCH=0.58 THETA_ROLL=359.51" pan="-337.7" skinid="ht_upstairs"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input prev5url="images/R0020023_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020023_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020023_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020023_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020023_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020023_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020023_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020023_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020023_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020023_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020023_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020023_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020023_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="269.19">
+      <start fov="80" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node5" description="" source="" comment="" longitude="" datetime="2021-01-28 1:37 PM" info="" heading="269.19" title="THETA_PITCH=0.70 THETA_ROLL=359.50" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node4}" target="" title="THETA_PITCH=0.45 THETA_ROLL=359.53" pan="-340.55" skinid="ht_node"/>
+      <hotspot id="Point02" tilt="0" description="" url="{node6}" target="" title="THETA_PITCH=0.68 THETA_ROLL=359.39" pan="-18.02" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input prev5url="images/R0020024_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020024_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020024_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020024_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020024_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020024_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020024_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020024_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020024_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020024_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020024_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020024_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020024_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="29.94">
+      <start fov="80" tilt="0" projection="4" pan="160"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node6" description="" source="" comment="" longitude="" datetime="2021-01-28 1:37 PM" info="" heading="29.94" title="THETA_PITCH=0.68 THETA_ROLL=359.39" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node5}" target="" title="THETA_PITCH=0.70 THETA_ROLL=359.50" pan="-10.62" skinid="ht_node"/>
+      <hotspot id="Point02" tilt="0" description="" url="{node4}" target="" title="THETA_PITCH=0.45 THETA_ROLL=359.53" pan="-101.23" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input prev5url="images/R0020025_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020025_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020025_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020025_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020025_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020025_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020025_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020025_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020025_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020025_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020025_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020025_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020025_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="34.57">
+      <start fov="80" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node7" description="" source="" comment="" longitude="" datetime="2021-01-28 1:39 PM" info="" heading="34.57" title="THETA_PITCH=0.58 THETA_ROLL=359.51" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node8}" target="" title="THETA_PITCH=1.34 THETA_ROLL=359.21" pan="-183.46" skinid="ht_node"/>
+      <hotspot id="Point02" tilt="0" description="" url="{node9}" target="" title="THETA_PITCH=1.33 THETA_ROLL=359.36" pan="-227.16" skinid="ht_node"/>
+      <hotspot id="Point03" tilt="0" description="" url="{node10}" target="" title="THETA_PITCH=0.95 THETA_ROLL=359.65" pan="-312.88" skinid="ht_node"/>
+      <hotspot id="Point04" tilt="0" description="" url="{node11}" target="" title="THETA_PITCH=0.37 THETA_ROLL=359.13" pan="-357.14" skinid="ht_node"/>
+      <hotspot id="Point05" tilt="0" description="" url="{node3}" target="" title="THETA_PITCH=1.01 THETA_ROLL=359.50" pan="-144.19" skinid="ht_downstairs"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input prev5url="images/R0020026_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020026_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020026_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020026_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020026_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020026_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020026_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020026_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020026_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020026_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020026_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020026_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020026_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="263.06">
+      <start fov="80" tilt="0" projection="4" pan="30"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node8" description="" source="" comment="" longitude="" datetime="2021-01-28 1:39 PM" info="" heading="263.06" title="THETA_PITCH=1.34 THETA_ROLL=359.21" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node7}" target="" title="THETA_PITCH=0.58 THETA_ROLL=359.51" pan="-158.61" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input prev5url="images/R0020027_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020027_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020027_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020027_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020027_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020027_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020027_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020027_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020027_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020027_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020027_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020027_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020027_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="270.76">
+      <start fov="80" tilt="0" projection="4" pan="-30"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node9" description="" source="" comment="" longitude="" datetime="2021-01-28 1:40 PM" info="" heading="270.76" title="THETA_PITCH=1.33 THETA_ROLL=359.36" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node7}" target="" title="THETA_PITCH=0.58 THETA_ROLL=359.51" pan="-238.81" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input prev5url="images/R0020028_HDR-Edit_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020028_HDR-Edit_ovr.jpg" tilescale="1.010493" tile3url="images/R0020028_HDR-Edit_o_3.jpg" prev3url="images/R0020028_HDR-Edit_o_preview_3.jpg" tile0url="images/R0020028_HDR-Edit_o_0.jpg" tile4url="images/R0020028_HDR-Edit_o_4.jpg" prev4url="images/R0020028_HDR-Edit_o_preview_4.jpg" prev0url="images/R0020028_HDR-Edit_o_preview_0.jpg" tilesize="953" prev2url="images/R0020028_HDR-Edit_o_preview_2.jpg" tile5url="images/R0020028_HDR-Edit_o_5.jpg" tile1url="images/R0020028_HDR-Edit_o_1.jpg" levelingpitch="0" prev1url="images/R0020028_HDR-Edit_o_preview_1.jpg" tile2url="images/R0020028_HDR-Edit_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="32.87">
+      <start fov="80" tilt="0" projection="4" pan="40"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node10" description="" source="" comment="" longitude="" datetime="2021-01-28 1:41 PM" info="" heading="32.87" title="THETA_PITCH=0.95 THETA_ROLL=359.65" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node7}" target="" title="THETA_PITCH=0.58 THETA_ROLL=359.51" pan="-97.8" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input prev5url="images/R0020029_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020029_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020029_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020029_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020029_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020029_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020029_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020029_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020029_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020029_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020029_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020029_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020029_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="35.66">
+      <start fov="80" tilt="0" projection="4" pan="-20"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node11" description="" source="" comment="" longitude="" datetime="2021-01-28 1:42 PM" info="" heading="35.66" title="THETA_PITCH=0.37 THETA_ROLL=359.13" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node7}" target="" title="THETA_PITCH=0.58 THETA_ROLL=359.51" pan="-175.67" skinid="ht_node"/>
+      <hotspot id="Point02" tilt="0" description="" url="{node12}" target="" title="THETA_PITCH=0.90 THETA_ROLL=359.40" pan="-356.19" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input prev5url="images/R0020030_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020030_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020030_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020030_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020030_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020030_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020030_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020030_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020030_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020030_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020030_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020030_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020030_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="28.39">
+      <start fov="80" tilt="0" projection="4" pan="-60"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node12" description="" source="" comment="" longitude="" datetime="2021-01-28 1:43 PM" info="" heading="28.39" title="THETA_PITCH=0.90 THETA_ROLL=359.40" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node11}" target="" title="THETA_PITCH=0.37 THETA_ROLL=359.13" pan="-181.69" skinid="ht_node"/>
+      <hotspot id="Point02" tilt="0" description="" url="{node13}" target="" title="THETA_PITCH=0.58 THETA_ROLL=359.31" pan="-227.59" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input prev5url="images/R0020031_HDR-Edit_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020031_HDR-Edit_ovr.jpg" tilescale="1.010493" tile3url="images/R0020031_HDR-Edit_o_3.jpg" prev3url="images/R0020031_HDR-Edit_o_preview_3.jpg" tile0url="images/R0020031_HDR-Edit_o_0.jpg" tile4url="images/R0020031_HDR-Edit_o_4.jpg" prev4url="images/R0020031_HDR-Edit_o_preview_4.jpg" prev0url="images/R0020031_HDR-Edit_o_preview_0.jpg" tilesize="953" prev2url="images/R0020031_HDR-Edit_o_preview_2.jpg" tile5url="images/R0020031_HDR-Edit_o_5.jpg" tile1url="images/R0020031_HDR-Edit_o_1.jpg" levelingpitch="0" prev1url="images/R0020031_HDR-Edit_o_preview_1.jpg" tile2url="images/R0020031_HDR-Edit_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="35.95">
+      <start fov="80" tilt="0" projection="4" pan="40"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node13" description="" source="" comment="" longitude="" datetime="2021-01-28 1:44 PM" info="" heading="35.95" title="THETA_PITCH=0.58 THETA_ROLL=359.31" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node12}" target="" title="THETA_PITCH=0.90 THETA_ROLL=359.40" pan="-66.46" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input prev5url="images/R0020032_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020032_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020032_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020032_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020032_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020032_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020032_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020032_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020032_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020032_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020032_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020032_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020032_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="31.89">
+      <start fov="80" tilt="0" projection="4" pan="30"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node14" description="" source="" comment="" longitude="" datetime="2021-01-28 1:45 PM" info="" heading="31.89" title="THETA_PITCH=0.85 THETA_ROLL=0.01" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point02" tilt="0" description="" url="{node15}" target="" title="THETA_PITCH=0.97 THETA_ROLL=359.27" pan="-182.27" skinid="ht_node"/>
+      <hotspot id="Point03" tilt="0" description="" url="{node16}" target="" title="THETA_PITCH=0.58 THETA_ROLL=359.01" pan="-292.55" skinid="ht_node"/>
+      <hotspot id="Point04" tilt="-0.18" description="" url="{node17}" target="" title="THETA_PITCH=1.41 THETA_ROLL=359.55" pan="-357.3" skinid="ht_node"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node3}" target="" title="THETA_PITCH=1.01 THETA_ROLL=359.50" pan="-132.29" skinid="ht_upstairs"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input prev5url="images/R0020033_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020033_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020033_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020033_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020033_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020033_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020033_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020033_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020033_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020033_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020033_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020033_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020033_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="271.09">
+      <start fov="80" tilt="0" projection="4" pan="-10"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node15" description="" source="" comment="" longitude="" datetime="2021-01-28 1:46 PM" info="" heading="271.09" title="THETA_PITCH=0.97 THETA_ROLL=359.27" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node14}" target="" title="THETA_PITCH=0.85 THETA_ROLL=0.01" pan="-163.4" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input prev5url="images/R0020034_HDR-Edit_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020034_HDR-Edit_ovr.jpg" tilescale="1.010493" tile3url="images/R0020034_HDR-Edit_o_3.jpg" prev3url="images/R0020034_HDR-Edit_o_preview_3.jpg" tile0url="images/R0020034_HDR-Edit_o_0.jpg" tile4url="images/R0020034_HDR-Edit_o_4.jpg" prev4url="images/R0020034_HDR-Edit_o_preview_4.jpg" prev0url="images/R0020034_HDR-Edit_o_preview_0.jpg" tilesize="953" prev2url="images/R0020034_HDR-Edit_o_preview_2.jpg" tile5url="images/R0020034_HDR-Edit_o_5.jpg" tile1url="images/R0020034_HDR-Edit_o_1.jpg" levelingpitch="0" prev1url="images/R0020034_HDR-Edit_o_preview_1.jpg" tile2url="images/R0020034_HDR-Edit_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="23.78">
+      <start fov="80" tilt="0" projection="4" pan="40"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node16" description="" source="" comment="" longitude="" datetime="2021-01-28 1:47 PM" info="" heading="23.78" title="THETA_PITCH=0.58 THETA_ROLL=359.01" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node14}" target="" title="THETA_PITCH=0.85 THETA_ROLL=0.01" pan="-84.53" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input prev5url="images/R0020035_HDR-Edit_RGB_color_0000_o_preview_5.jpg" levelingroll="0" tilevrurl="images/R0020035_HDR-Edit_RGB_color_0000_ovr.jpg" tilescale="1.010493" tile3url="images/R0020035_HDR-Edit_RGB_color_0000_o_3.jpg" prev3url="images/R0020035_HDR-Edit_RGB_color_0000_o_preview_3.jpg" tile0url="images/R0020035_HDR-Edit_RGB_color_0000_o_0.jpg" tile4url="images/R0020035_HDR-Edit_RGB_color_0000_o_4.jpg" prev4url="images/R0020035_HDR-Edit_RGB_color_0000_o_preview_4.jpg" prev0url="images/R0020035_HDR-Edit_RGB_color_0000_o_preview_0.jpg" tilesize="953" prev2url="images/R0020035_HDR-Edit_RGB_color_0000_o_preview_2.jpg" tile5url="images/R0020035_HDR-Edit_RGB_color_0000_o_5.jpg" tile1url="images/R0020035_HDR-Edit_RGB_color_0000_o_1.jpg" levelingpitch="0" prev1url="images/R0020035_HDR-Edit_RGB_color_0000_o_preview_1.jpg" tile2url="images/R0020035_HDR-Edit_RGB_color_0000_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="19.04">
+      <start fov="80" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="80" tilt="-80" pan="0"/>
+      <max fov="80" tilt="70" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node17" description="" source="" comment="" longitude="" datetime="2021-01-28 1:48 PM" info="" heading="19.04" title="THETA_PITCH=1.41 THETA_ROLL=359.55" latitude="" customnodeid="" copyright="" tags="2060 03 Post Processed" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" background="1" enabled="1" textcolor="0x000000" wordwrap="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="0" description="" url="{node14}" target="" title="THETA_PITCH=0.85 THETA_ROLL=0.01" pan="-179.93" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata nodeid="master" description="" source="" comment="" longitude="" datetime="" info="" heading="0" title="" latitude="" customnodeid="" copyright="" tags="" author=""/>
+  </masternode>
+</tour>
